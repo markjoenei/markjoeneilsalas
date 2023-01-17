@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Basic andriot, python, c++, html, css and javascipt**
+- 💬 Ask me about **Basic andriod, python, c++, html, css and javascipt**
 
 - 📫 How to reach me **markjoeneil.salas@gmail.com**
 
