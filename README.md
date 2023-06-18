@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my online portfolio! I'm very happy to see you. As an enthusiastic front-end web developer, I am constantly looking for new chances to use my abilities and take part in interesting projects.
+Welcome to my github account! I'm very happy to see you. As an enthusiastic front-end web developer, I am constantly looking for new chances to use my abilities and take part in interesting projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/markjoenei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-joeneil-salas-616b561b6/) 
